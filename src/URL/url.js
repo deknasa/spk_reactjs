@@ -1,0 +1,8 @@
+export const baseURL = "http://localhost:5000"
+export const userURL = "http://localhost:5000/user"
+export const kriteriaURL = "http://localhost:5000/kriteria"
+export const subkriteriaURL = "http://localhost:5000/subkriteria"
+export const alternatifURL = "http://localhost:5000/alternatif"
+export const relAlternatifURL = "http://localhost:5000/relAlternatif"
+export const mooraURL = "http://localhost:5000/moora"
+export const masterURL = "http://localhost:5000/master"

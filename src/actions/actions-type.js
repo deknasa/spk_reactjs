@@ -1,0 +1,1 @@
+export const GET_EMAIL_USER = "GET_EMAIL_USER"
